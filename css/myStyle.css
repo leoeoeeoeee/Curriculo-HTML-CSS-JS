@@ -9,3 +9,21 @@
     bottom: 40px;
     right: 40px;
 } 
+
+.barbearia-alura{
+    color: gray;
+    text-decoration: none;
+}
+
+.barbearia-alura:hover{
+    text-decoration: underline;
+}
+
+.mini-cidade{
+    color: gray;
+    text-decoration: none;
+}
+
+.mini-cidade:hover{
+    text-decoration: underline;
+}
