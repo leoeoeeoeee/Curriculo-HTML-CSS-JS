@@ -27,3 +27,12 @@
 .mini-cidade:hover{
     text-decoration: underline;
 }
+
+.alura-mais{
+    color: gray;
+    text-decoration: none;
+}
+
+.alura-mais:hover{
+    text-decoration: underline;
+}
