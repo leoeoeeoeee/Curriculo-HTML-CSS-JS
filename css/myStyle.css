@@ -33,6 +33,6 @@
     text-decoration: none;
 }
 
-.alura-plus:hover{
+.alura-plus a:hover{
     text-decoration: underline;
 }
