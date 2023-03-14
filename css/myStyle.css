@@ -10,6 +10,15 @@
     right: 40px;
 } 
 
+.alura-books{
+    color: gray;
+    text-decoration: none;
+}
+
+.alura-books:hover{
+    text-decoration: underline;
+}
+
 .mini-cidade{
     color: gray;
     text-decoration: none;
@@ -24,6 +33,24 @@
     text-decoration: none;
 }
 
-.alura-plus a:hover{
+.alura-plus:hover{
+    text-decoration: underline;
+}
+
+.culturama{
+    color: gray;
+    text-decoration: none;
+}
+
+.culturama:hover{
+    text-decoration: underline;
+}
+
+.alura-cast{
+    color: gray;
+    text-decoration: none;
+}
+
+.alura-cast:hover{
     text-decoration: underline;
 }
