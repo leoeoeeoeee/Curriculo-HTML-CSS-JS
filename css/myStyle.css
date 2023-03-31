@@ -45,3 +45,21 @@
 .alura-cast:hover{
     text-decoration: underline;
 }
+
+.alura-newsletter{
+    color: gray;
+    text-decoration: none;
+}
+
+.alura-newsletter:hover{
+    text-decoration: underline;
+}
+
+.alura-midi{
+    color: gray;
+    text-decoration: none;
+}
+
+.alura-midi:hover{
+    text-decoration: underline;
+}
