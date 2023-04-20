@@ -37,12 +37,12 @@
     text-decoration: underline;
 }
 
-.alura-cast{
+.alura-play{
     color: gray;
     text-decoration: none;
 }
 
-.alura-cast:hover{
+.alura-play:hover{
     text-decoration: underline;
 }
 
