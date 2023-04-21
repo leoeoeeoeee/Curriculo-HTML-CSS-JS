@@ -54,3 +54,12 @@
 .alura-midi:hover{
     text-decoration: underline;
 }
+
+.moni-bank{
+    color: gray;
+    text-decoration: none;
+}
+
+.moni-bank:hover{
+    text-decoration: underline;
+}
