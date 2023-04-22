@@ -63,3 +63,12 @@
 .moni-bank:hover{
     text-decoration: underline;
 }
+
+.lista-de-compras{
+    color: gray;
+    text-decoration: none;
+}
+
+.lista-de-compras:hover{
+    text-decoration: underline;
+}
