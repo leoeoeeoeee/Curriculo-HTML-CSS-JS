@@ -72,3 +72,12 @@
 .lista-de-compras:hover{
     text-decoration: underline;
 }
+
+.devs-dragons{
+    color: gray;
+    text-decoration: none;
+}
+
+.devs-dragons:hover{
+    text-decoration: underline;
+}
