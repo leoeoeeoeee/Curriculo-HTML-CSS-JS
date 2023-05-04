@@ -64,6 +64,15 @@
     text-decoration: underline;
 }
 
+.byte-bank{
+    color: gray;
+    text-decoration: none;
+}
+
+.byte-bank:hover{
+    text-decoration: underline;
+}
+
 .lista-de-compras{
     color: gray;
     text-decoration: none;
