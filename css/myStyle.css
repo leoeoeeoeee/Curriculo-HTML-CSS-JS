@@ -10,12 +10,12 @@
     right: 40px;
 } 
 
-.alura-books{
+.codigos-mestre{
     color: gray;
     text-decoration: none;
 }
 
-.alura-books:hover{
+.codigos-mestre:hover{
     text-decoration: underline;
 }
 
